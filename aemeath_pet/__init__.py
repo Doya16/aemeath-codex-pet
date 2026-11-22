@@ -1,0 +1,1 @@
+"""Aemeath Codex desktop companion."""
